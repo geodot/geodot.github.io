@@ -15,6 +15,24 @@ https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Пятница! (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/04fbc8829fa8cb451a8af03ad716ada4.png"group-title="Развлекательные",Пятница! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="Nano TV HD"tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png"group-title="Развлекательные",Nano TV HD
+http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Наука"tvg-logo="https://karnei4.github.io/convert/logo-z/0b2ebb141ef278eae542b3bd4b698c6e.png"group-title="Развлекательные",СТС (+4)
+http://78.25.155.47:1309/channel/Nauka.ts
+#EXTINF:-1 tvg-id="Viasat Explore"tvg-logo="https://karnei4.github.io/convert/logo-z/91903a582ab237b70ce7404601b7cf6f.png"group-title="Развлекательные",ТНТ4
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC HD"tvg-logo="https://karnei4.github.io/convert/logo-z/bba299cc1695ad84c00053e8b6adf345.png"group-title="Развлекательные",TLC HD
+https://forumtv.pro/threads/besplatno-plejlisty-iptv.135/post-68554
+#EXTINF:-1 tvg-id="TV 1000"tvg-logo="https://karnei4.github.io/convert/logo-z/d48c64656b2a8151f1e597c30c3a5941.png"group-title="Развлекательные",ТВ 3 (+4)
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 1000 Action"tvg-logo="https://karnei4.github.io/convert/logo-z/b1036b00d5ddb96573b2105fafb4efd6.png"group-title="Развлекательные",ТВ 3 (+7)
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VIP Comedy"tvg-logo="https://karnei4.github.io/convert/logo-z/56e90b908369f1c52acbb8582ac9307b.png"group-title="Развлекательные",ТНТ (+2)
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VIP Megahit"tvg-logo="https://karnei4.github.io/convert/logo-z/0822855b1da204a50d3db0e1e0861e97.png"group-title="Развлекательные",ТНТ (+4)
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VIP Premiere"tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png"group-title="Развлекательные",ТНТ (+7)
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Муз ТВ"tvg-logo="https://karnei4.github.io/convert/logo-z/0a66abc2ec39105d706f3b361f67b5fc.png"group-title="Музыка",Муз ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Муз ТВ (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/1d763fcaab6547648e2432c5d2ef9500.png"group-title="Музыка",Муз ТВ (+2)
@@ -23,10 +41,6 @@ https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_MUZTV_RTRS_CHEL/var
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_MUZTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Муз ТВ (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/91f609a481aa278457aba2e00c384d45.png"group-title="Музыка",Муз ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="СТС (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png"group-title="Развлекательные",СТС (+2)
-https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_STS_URAL_CHEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="СТС (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/0b2ebb141ef278eae542b3bd4b698c6e.png"group-title="Развлекательные",СТС (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_STS/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="СТС (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/3757f73a11dc6f5089c7f168d01e1092.png"group-title="Развлекательные",СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="СТС Love"tvg-logo="https://karnei4.github.io/convert/logo-z/95eea898df5113a89d1d2dbfc8facc6c.png"group-title="Развлекательные",СТС Love
@@ -35,20 +49,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Суббота! (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/f3bd1e7d659de046b5b28ed666d6ed8d.png"group-title="Развлекательные",Суббота! (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТВ 3 (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/bba299cc1695ad84c00053e8b6adf345.png"group-title="Развлекательные",ТВ 3 (+2)
-https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TV3_URAL_CHEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТВ 3 (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/d48c64656b2a8151f1e597c30c3a5941.png"group-title="Развлекательные",ТВ 3 (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТВ 3 (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/b1036b00d5ddb96573b2105fafb4efd6.png"group-title="Развлекательные",ТВ 3 (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТНТ (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/56e90b908369f1c52acbb8582ac9307b.png"group-title="Развлекательные",ТНТ (+2)
-https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TNT_URAL_CHEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТНТ (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/0822855b1da204a50d3db0e1e0861e97.png"group-title="Развлекательные",ТНТ (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТНТ (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png"group-title="Развлекательные",ТНТ (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТНТ4"tvg-logo="https://karnei4.github.io/convert/logo-z/91903a582ab237b70ce7404601b7cf6f.png"group-title="Развлекательные",ТНТ4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ТНТ4 (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/08cd6c75c30fb04baa26485a3975a2e5.png"group-title="Развлекательные",ТНТ4 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ТНТ4 (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/f9bb3e3fd1c144f86375bdda3b29637e.png"group-title="Развлекательные",ТНТ4 (+4)
