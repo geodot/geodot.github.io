@@ -14,33 +14,33 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="Пятница! (-3)"tvg-logo="https://karnei4.github.io/convert/logo-z/e889d560eefa2006f17a2f073c879e10.png"group-title="Развлекательные",Пятница! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
 #EXTINF:-1 tvg-id="TLC"tvg-logo="http://epg.it999.ru/img/431.png"group-title="Развлекательные",TLC
-https://cdn-cache01.voka.tv:443/live/5117.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
 #EXTINF:-1 tvg-id="Nano TV HD"tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png"group-title="Развлекательные",Nano TV HD
-http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
+https://cdn-cache01.voka.tv:443/live/211.m3u8
 #EXTINF:-1 tvg-id="National Geographic (okko tv)"tvg-logo=""group-title="Развлекательные",National Geographic (okko tv)
 http://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
 #EXTINF:-1 tvg-id="Viasat Explore"tvg-logo="https://karnei4.github.io/convert/logo-z/91903a582ab237b70ce7404601b7cf6f.png"group-title="Развлекательные",Viasat Explore
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV 1000"tvg-logo="https://karnei4.github.io/convert/logo-z/d48c64656b2a8151f1e597c30c3a5941.png"group-title="Развлекательные",TV 1000
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Food Time"tvg-logo=""group-title="Еда",Food Time
+http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Еда"tvg-logo=""group-title="Еда",Еда
+http://u.vipl.one/high/mtpy4cu872/518.m3u8
+#EXTINF:-1 tvg-id="Кухня ТВ"tvg-logo=""group-title="Еда",Кухня ТВ
+http://moobl.ru/iptv/Kuhnya_hd.m3u8
+#EXTINF:-1 tvg-id="E HD"tvg-logo=""group-title="Развлекательные",E HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Телекафе"tvg-logo=""group-title="Еда",Телекафе
+http://46.151.151.245:10007/play/a003
 #EXTINF:-1 tvg-id="TV 1000 Action"tvg-logo="https://karnei4.github.io/convert/logo-z/b1036b00d5ddb96573b2105fafb4efd6.png"group-title="Развлекательные",TV 1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 1000"tvg-logo="https://karnei4.github.io/convert/logo-z/d48c64656b2a8151f1e597c30c3a5941.png"group-title="Развлекательные",TV 1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VIP Premiere"tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png"group-title="Развлекательные",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="VIP Comedy"tvg-logo="https://karnei4.github.io/convert/logo-z/56e90b908369f1c52acbb8582ac9307b.png"group-title="Развлекательные",VIP Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="VIP Megahit"tvg-logo="https://karnei4.github.io/convert/logo-z/0822855b1da204a50d3db0e1e0861e97.png"group-title="Развлекательные",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="VIP Premiere"tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png"group-title="Развлекательные",VIP Premiere
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="E HD"tvg-logo=""group-title="Развлекательные",E HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Food Time"tvg-logo=""group-title="Еда",Food Time
-http://31.134.132.245:8080/eda_hd/index.m3u8
-#EXTINF:-1 tvg-id="Еда"tvg-logo=""group-title="Еда",Еда
-http://94.230.128.172:7135/1.ts
-#EXTINF:-1 tvg-id="Кухня ТВ"tvg-logo=""group-title="Еда",Кухня ТВ
-https://tbs01-edge11.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Телекафе"tvg-logo=""group-title="Еда",Телекафе
-http://46.151.151.245:10007/play/a003
 #EXTINF:-1 tvg-id="Муз ТВ"tvg-logo="https://karnei4.github.io/convert/logo-z/0a66abc2ec39105d706f3b361f67b5fc.png"group-title="Музыка",Муз ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Муз ТВ (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/a1110d45c3e705f76a5f2d4b403b66af.png"group-title="Музыка",Муз ТВ (+4)
