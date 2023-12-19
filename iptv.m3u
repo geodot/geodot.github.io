@@ -2,11 +2,13 @@
 #EXTINF:-1 tvg-id="2x2"tvg-logo="https://karnei4.github.io/convert/logo-z/234bcf7fc1ef62c889f9129ff5af5130.png"group-title="Развлекательные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Sci-Fi"tvg-logo="http://epg.it999.ru/img/431.png"group-title="Развлекательные",Sci-Fi
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/110/index.m3u8
 #EXTINF:-1 tvg-id="Пятница! (Оригинал)"tvg-logo=""group-title="Развлекательные",Пятница! (Оригинал)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="Пятница! (-3)"tvg-logo="https://karnei4.github.io/convert/logo-z/e889d560eefa2006f17a2f073c879e10.png"group-title="Развлекательные",Пятница! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-id="СТС"tvg-logo=""group-title="Развлекательные",СТС
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
 #EXTINF:-1 tvg-id="TLC"tvg-logo="http://epg.it999.ru/img/431.png"group-title="Развлекательные",TLC
 https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
 #EXTINF:-1 tvg-id="Galaxy HD"tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png"group-title="Развлекательные",Galaxy HD
@@ -18,17 +20,15 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="Viasat Explore"tvg-logo="https://karnei4.github.io/convert/logo-z/91903a582ab237b70ce7404601b7cf6f.png"group-title="Развлекательные",Viasat Explore
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Food Time"tvg-logo=""group-title="Еда",Food Time
-http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Еда"tvg-logo=""group-title="Еда",Еда
-http://u.vipl.one/high/mtpy4cu872/518.m3u8
+http://ott.watch/stream/G9IUEAXQZ7/216.m3u8
+#EXTINF:-1 tvg-id="Food Network HD"tvg-logo=""group-title="Еда",Food Network HD
+http://ott.watch/stream/G9IUEAXQZ7/298.m3u8
 #EXTINF:-1 tvg-id="Еда Премиум Международный"tvg-logo=""group-title="Еда",Еда Премиум Международный
 https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
 #EXTINF:-1 tvg-id="E HD"tvg-logo=""group-title="Развлекательные",E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Телекафе"tvg-logo=""group-title="Еда",Телекафе
-http://46.151.151.245:10007/play/a003
-#EXTINF:-1 tvg-id="TV 1000 Action"tvg-logo="https://karnei4.github.io/convert/logo-z/b1036b00d5ddb96573b2105fafb4efd6.png"group-title="Развлекательные",TV 1000 Action
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Солнце"tvg-logo="https://karnei4.github.io/convert/logo-z/9925717e1a1863cc5284e5fd699be05f.png"group-title="Детские",Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="TV 1000"tvg-logo="https://karnei4.github.io/convert/logo-z/d48c64656b2a8151f1e597c30c3a5941.png"group-title="Развлекательные",TV 1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="VIP Premiere"tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png"group-title="Развлекательные",VIP Premiere
@@ -37,8 +37,10 @@ https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="VIP Megahit"tvg-logo="https://karnei4.github.io/convert/logo-z/0822855b1da204a50d3db0e1e0861e97.png"group-title="Развлекательные",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Солнце"tvg-logo="https://karnei4.github.io/convert/logo-z/9925717e1a1863cc5284e5fd699be05f.png"group-title="Детские",Солнце
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="Телекафе"tvg-logo=""group-title="Развлекательные",Телекафе
+http://46.151.151.245:10007/play/a003
+#EXTINF:-1 tvg-id="TV 1000 Action"tvg-logo="https://karnei4.github.io/convert/logo-z/b1036b00d5ddb96573b2105fafb4efd6.png"group-title="Развлекательные",TV 1000 Action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Карусель"tvg-logo="https://karnei4.github.io/convert/logo-z/31809f1d64e040ec99ba9c579306301c.png"group-title="Детские",Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="Карусель (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/cae25d0d3e03ec7686cfa546cd2f6b8a.png"group-title="Детские",Карусель (+4)
