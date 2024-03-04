@@ -1,93 +1,19 @@
 ﻿#EXTM3U 
-#EXTINF:-1 tvg-id="2x2"tvg-logo="https://karnei4.github.io/convert/logo-z/234bcf7fc1ef62c889f9129ff5af5130.png"group-title="Развлекательные",2x2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Sci-Fi"tvg-logo="http://epg.it999.ru/img/431.png"group-title="Развлекательные",Sci-Fi
-http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/110/index.m3u8
-#EXTINF:-1 tvg-id="Пятница! (Оригинал)"tvg-logo=""group-title="Развлекательные",Пятница! (Оригинал)
+#EXTINF:-1   group-title="Развлекательные",Пятница! (Оригинал)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="Пятница! (-3)"tvg-logo="https://karnei4.github.io/convert/logo-z/e889d560eefa2006f17a2f073c879e10.png"group-title="Развлекательные",Пятница! (+4)
+#EXTINF:-1   group-title="Развлекательные",Пятница! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 tvg-id="СТС"tvg-logo=""group-title="Развлекательные",СТС
-http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
-#EXTINF:-1 tvg-id="Food Time"tvg-logo=""group-title="Еда",Food Time
+#EXTINF:-1   group-title="Еда",Food Time
 http://ott.watch/stream/G9IUEAXQZ7/216.m3u8
-#EXTINF:-1 tvg-id="Food Network HD"tvg-logo=""group-title="Еда",Food Network HD
+#EXTINF:-1   group-title="Еда",Food Network HD
 http://ott.watch/stream/G9IUEAXQZ7/298.m3u8
-#EXTINF:-1 tvg-id="E HD"tvg-logo=""group-title="Развлекательные",E HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Viju+ Planet HD"tvg-logo="https://karnei4.github.io/convert/logo-z/aa0b5f6bf323de025b2e0f440ed7817b.png"group-title="Развлекательные",Viju+ Planet HD
-http://ott.watch/stream/G9IUEAXQZ7/240.m3u8
-#EXTINF:-1 tvg-id="National Geographic"tvg-logo=""group-title="Развлекательные",National Geographic
-http://ott.watch/stream/WAQ21L2ZD5/116.m3u8
-#EXTINF:-1 tvg-id="Viju Explore HD"tvg-logo="https://karnei4.github.io/convert/logo-z/91903a582ab237b70ce7404601b7cf6f.png"group-title="Развлекательные",Viju Explore HD
-http://ott.watch/stream/G9IUEAXQZ7/239.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel"tvg-logo=""group-title="",
-http://bsxwydaj.tvclub.xyz/iptv/CLY7UZTXHCP2AM/152/index.m3u8
-#EXTINF:-1 tvg-id="Солнце"tvg-logo="https://karnei4.github.io/convert/logo-z/9925717e1a1863cc5284e5fd699be05f.png"group-title="Детские",Солнце
+#EXTINF:-1   group-title="Детские",Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="TLC"tvg-logo="http://epg.it999.ru/img/431.png"group-title="Развлекательные",TLC
-http://ott.watch/stream/WAQ21L2ZD5/168.m3u8
-#EXTINF:-1 tvg-id="TV 1000"tvg-logo="https://karnei4.github.io/convert/logo-z/d48c64656b2a8151f1e597c30c3a5941.png"group-title="Развлекательные",TV 1000
-http://bsxwydaj.tvclub.xyz/iptv/CLY7UZTXHCP2AM/164/index.m3u8
-#EXTINF:-1 tvg-id="VIP Premiere"tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png"group-title="Развлекательные",VIP Premiere
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="VIP Comedy"tvg-logo="https://karnei4.github.io/convert/logo-z/56e90b908369f1c52acbb8582ac9307b.png"group-title="Развлекательные",VIP Comedy
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="VIP Megahit"tvg-logo="https://karnei4.github.io/convert/logo-z/0822855b1da204a50d3db0e1e0861e97.png"group-title="Развлекательные",VIP Megahit
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Телекафе"tvg-logo=""group-title="Развлекательные",Телекафе
-http://46.151.151.245:10007/play/a003
-#EXTINF:-1 tvg-id="TV 1000 Action"tvg-logo="https://karnei4.github.io/convert/logo-z/b1036b00d5ddb96573b2105fafb4efd6.png"group-title="Развлекательные",TV 1000 Action
-http://5ioctuxp.tvclub.xyz/iptv/K2WP9AQ3B4XA2E/131/index.m3u8
-#EXTINF:-1 tvg-id="Карусель"tvg-logo="https://karnei4.github.io/convert/logo-z/31809f1d64e040ec99ba9c579306301c.png"group-title="Детские",Карусель
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Карусель (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/cae25d0d3e03ec7686cfa546cd2f6b8a.png"group-title="Детские",Карусель (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Карусель (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/d2d07895245d4638621146511261e55f.png"group-title="Детские",Карусель (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="VF Cartoon"tvg-logo=""group-title="Детские",
-http://bsxwydaj.tvclub.xyz/iptv/CLY7UZTXHCP2AM/10002/index.m3u8
-#EXTINF:-1 tvg-id="Муз ТВ"tvg-logo="https://karnei4.github.io/convert/logo-z/0a66abc2ec39105d706f3b361f67b5fc.png"group-title="Музыка",Муз ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Муз ТВ (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/a1110d45c3e705f76a5f2d4b403b66af.png"group-title="Музыка",Муз ТВ (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Муз ТВ (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/91f609a481aa278457aba2e00c384d45.png"group-title="Музыка",Муз ТВ (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Домашний"tvg-logo="https://karnei4.github.io/convert/logo-z/e53b539aab3900b7d873aad7765d093d.png"group-title="Общероссийские",Домашний
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Домашний (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/4a003eb6e137d6aabb403e50a878db27.png"group-title="Общероссийские",Домашний (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Звезда"tvg-logo="https://karnei4.github.io/convert/logo-z/48f61415a32b4111fee20ef9e7b6ff3b.png"group-title="Общероссийские",Звезда
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Звезда (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/2c935c4c2fbec5978ea3c9ecce7c64c7.png"group-title="Общероссийские",Звезда (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Звезда (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/248fe94dc5bcb28d6f0d5f862736883d.png"group-title="Общероссийские",Звезда (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Мир 24"tvg-logo="https://karnei4.github.io/convert/logo-z/a5e92858e4135515280cf0713f891e8a.png"group-title="Общероссийские",Мир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Мир (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/6b69b6bf844663d41d4577f6910d1792.png"group-title="Общероссийские",Мир (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Мир (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/cc19a43e12d7b5c953be67ac58cebc8b.png"group-title="Общероссийские",Мир (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="НТВ (+1)"tvg-logo="https://karnei4.github.io/convert/logo-z/239132ae9f1cb78fa47ad3f4fd2c6d1f.png"group-title="Общероссийские",НТВ (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="НТВ (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/37a3b701eab90f260c116385eda49ff4.png"group-title="Общероссийские",НТВ (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="НТВ (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/f7b764e21e8035eb69f7fa1f01a2a96d.png"group-title="Общероссийские",НТВ (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ОТР"tvg-logo="https://karnei4.github.io/convert/logo-z/e2f886585f0a9003ad258d7aa18b83b8.png"group-title="Общероссийские",ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Пятый канал"tvg-logo="https://karnei4.github.io/convert/logo-z/34f43855aacdbb11d54a784b3e80b7be.png"group-title="Общероссийские",Пятый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Пятый канал (+2)"tvg-logo="https://karnei4.github.io/convert/logo-z/779fe28f0ad92e67cff73abcf19f9a28.png"group-title="Общероссийские",Пятый канал (+2)
-https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URAL_CHEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Пятый канал (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/c57aed7087905cdc9b0bff02d72bc096.png"group-title="Общероссийские",Пятый канал (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Пятый канал (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/979544c8bae6660e2cdabe60eedb08b9.png"group-title="Общероссийские",Пятый канал (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="РЕН ТВ (+4)"tvg-logo="https://karnei4.github.io/convert/logo-z/76cf0974aefcda57925eb075eb95ea84.png"group-title="Общероссийские",РЕН ТВ (+4)
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_RENTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="РЕН ТВ (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/c586f8dcc85e22011813224b94081e23.png"group-title="Общероссийские",РЕН ТВ (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Россия К (+7)"tvg-logo="https://karnei4.github.io/convert/logo-z/34482b1ce211ac9cc69f79cee9cc871c.png"group-title="Общероссийские",Россия К (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
+#EXTINF:-1   group-title="Развлекательные",E HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Развлекательные",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
+#EXTINF:-1   group-title="Развлекательные",Sci-Fi
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/110/index.m3u8
+#EXTINF:-1   group-title="Развлекательные",СТС
+http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
