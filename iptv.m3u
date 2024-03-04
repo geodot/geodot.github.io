@@ -1,19 +1,303 @@
 ﻿#EXTM3U 
-#EXTINF:-1   group-title="Развлекательные",Пятница! (Оригинал)
+#EXTINF:-1  group-title="Развлекательные",Пятница! (Оригинал)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1   group-title="Развлекательные",Пятница! (+4)
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1   group-title="Еда",Food Time
+#EXTINF:-1  group-title="Еда",Food Time
 http://ott.watch/stream/G9IUEAXQZ7/216.m3u8
-#EXTINF:-1   group-title="Еда",Food Network HD
+#EXTINF:-1  group-title="Еда",Food Network HD
 http://ott.watch/stream/G9IUEAXQZ7/298.m3u8
-#EXTINF:-1   group-title="Детские",Солнце
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
-#EXTINF:-1   group-title="Развлекательные",E HD
+#EXTINF:-1  group-title="Еда",Кус-кус HD
+http://ott.watch/stream/G9IUEAXQZ7/195.m3u8
+#EXTINF:-1  group-title="Развлекательные",E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1   group-title="Развлекательные",2x2
+#EXTINF:-1  group-title="Развлекательные",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
-#EXTINF:-1   group-title="Развлекательные",Sci-Fi
+#EXTINF:-1  group-title="Детские",Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-1  group-title="Развлекательные",Sci-Fi
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/110/index.m3u8
-#EXTINF:-1   group-title="Развлекательные",СТС
+#EXTINF:-1  group-title="Развлекательные",СТС
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
+#EXTINF:-1  group-title="Познавательные",Discovery HD
+http://ott.watch/stream/G9IUEAXQZ7/177.m3u8
+#EXTINF:-1  group-title="Познавательные",Discovery Science HD
+http://ott.watch/stream/G9IUEAXQZ7/146.m3u8
+#EXTINF:-1  group-title="Познавательные",DTX HD
+http://ott.watch/stream/G9IUEAXQZ7/145.m3u8
+#EXTINF:-1  group-title="Познавательные",Investigation Discovery
+http://ott.watch/stream/G9IUEAXQZ7/205.m3u8
+#EXTINF:-1  group-title="Познавательные",History HD
+http://ott.watch/stream/G9IUEAXQZ7/113.m3u8
+#EXTINF:-1  group-title="Познавательные",H2 HD
+http://ott.watch/stream/G9IUEAXQZ7/65.m3u8
+#EXTINF:-1  group-title="Познавательные",TLC HD
+http://ott.watch/stream/G9IUEAXQZ7/168.m3u8
+#EXTINF:-1  group-title="Познавательные",Animal Planet HD
+http://ott.watch/stream/G9IUEAXQZ7/114.m3u8
+#EXTINF:-1  group-title="Познавательные",Первый Космический HD
+http://ott.watch/stream/G9IUEAXQZ7/212.m3u8
+#EXTINF:-1  group-title="Познавательные",Глазами Туриста HD
+http://ott.watch/stream/G9IUEAXQZ7/304.m3u8
+#EXTINF:-1  group-title="Познавательные",Живи Активно HD
+http://ott.watch/stream/G9IUEAXQZ7/132.m3u8
+#EXTINF:-1  group-title="Познавательные",Наука 2.0 HD
+http://ott.watch/stream/G9IUEAXQZ7/125.m3u8
+#EXTINF:-1  group-title="Познавательные",Культура
+http://ott.watch/stream/G9IUEAXQZ7/229.m3u8
+#EXTINF:-1  group-title="Познавательные",В мире животных HD
+http://ott.watch/stream/G9IUEAXQZ7/241.m3u8
+#EXTINF:-1  group-title="Познавательные",Мама
+http://ott.watch/stream/G9IUEAXQZ7/79.m3u8
+#EXTINF:-1  group-title="Познавательные",Доктор HD
+http://ott.watch/stream/G9IUEAXQZ7/80.m3u8
+#EXTINF:-1  group-title="Познавательные",Da Vinci
+http://ott.watch/stream/G9IUEAXQZ7/238.m3u8
+#EXTINF:-1  group-title="Познавательные",Viju Explore HD
+http://ott.watch/stream/G9IUEAXQZ7/239.m3u8
+#EXTINF:-1  group-title="Познавательные",Viju+ Planet HD
+http://ott.watch/stream/G9IUEAXQZ7/240.m3u8
+#EXTINF:-1  group-title="Познавательные",Viju History HD
+http://ott.watch/stream/G9IUEAXQZ7/101.m3u8
+#EXTINF:-1  group-title="Познавательные",Соль ТВ HD
+http://ott.watch/stream/G9IUEAXQZ7/398.m3u8
+#EXTINF:-1  group-title="Познавательные",Чемодан ТВ HD
+http://ott.watch/stream/G9IUEAXQZ7/399.m3u8
+#EXTINF:-1  group-title="Познавательные",365 дней ТВ
+http://ott.watch/stream/G9IUEAXQZ7/70.m3u8
+#EXTINF:-1  group-title="Познавательные",Моя планета HD
+http://ott.watch/stream/G9IUEAXQZ7/124.m3u8
+#EXTINF:-1  group-title="Познавательные",RTG HD
+http://ott.watch/stream/G9IUEAXQZ7/164.m3u8
+#EXTINF:-1  group-title="Познавательные",Приключения HD
+http://ott.watch/stream/G9IUEAXQZ7/198.m3u8
+#EXTINF:-1  group-title="Познавательные",Travel channel HD
+http://ott.watch/stream/G9IUEAXQZ7/231.m3u8
+#EXTINF:-1  group-title="Познавательные",Travel+Adventure HD
+http://ott.watch/stream/G9IUEAXQZ7/206.m3u8
+#EXTINF:-1  group-title="Познавательные",Охота и рыбалка
+http://ott.watch/stream/G9IUEAXQZ7/155.m3u8
+#EXTINF:-1  group-title="Познавательные",Охотник и рыболов HD
+http://ott.watch/stream/G9IUEAXQZ7/194.m3u8
+#EXTINF:-1  group-title="Познавательные",Диалоги о рыбалке HD
+http://ott.watch/stream/G9IUEAXQZ7/264.m3u8
+#EXTINF:-1  group-title="Познавательные",Дикая Охота HD
+http://ott.watch/stream/G9IUEAXQZ7/274.m3u8
+#EXTINF:-1  group-title="Познавательные",Дикая Рыбалка HD
+http://ott.watch/stream/G9IUEAXQZ7/275.m3u8
+#EXTINF:-1  group-title="Познавательные",Усадьба
+http://ott.watch/stream/G9IUEAXQZ7/211.m3u8
+#EXTINF:-1  group-title="Познавательные",Живая природа HD
+http://ott.watch/stream/G9IUEAXQZ7/225.m3u8
+#EXTINF:-1  group-title="Познавательные",Живая планета
+http://ott.watch/stream/G9IUEAXQZ7/83.m3u8
+#EXTINF:-1  group-title="Познавательные",Кухня ТВ
+http://ott.watch/stream/G9IUEAXQZ7/179.m3u8
+#EXTINF:-1  group-title="Познавательные",Food Time HD
+http://ott.watch/stream/G9IUEAXQZ7/216.m3u8
+#EXTINF:-1  group-title="Познавательные",Food Network HD
+http://ott.watch/stream/G9IUEAXQZ7/298.m3u8
+#EXTINF:-1  group-title="Познавательные",Авто24 HD
+http://ott.watch/stream/G9IUEAXQZ7/78.m3u8
+#EXTINF:-1  group-title="Познавательные",Авто Плюс HD
+http://ott.watch/stream/G9IUEAXQZ7/186.m3u8
+#EXTINF:-1  group-title="Познавательные",Моя стихия HD
+http://ott.watch/stream/G9IUEAXQZ7/141.m3u8
+#EXTINF:-1  group-title="Познавательные",HDL HD
+http://ott.watch/stream/G9IUEAXQZ7/161.m3u8
+#EXTINF:-1  group-title="Познавательные",Insight TV HD
+http://ott.watch/stream/G9IUEAXQZ7/361.m3u8
+#EXTINF:-1  group-title="Познавательные",Нано ТВ HD
+http://ott.watch/stream/G9IUEAXQZ7/419.m3u8
+#EXTINF:-1  group-title="Познавательные",National Geographic HD
+http://ott.watch/stream/G9IUEAXQZ7/116.m3u8
+#EXTINF:-1  group-title="Познавательные",Nat Geo Wild HD
+http://ott.watch/stream/G9IUEAXQZ7/149.m3u8
+#EXTINF:-1  group-title="Познавательные",Quiz TV HD
+http://ott.watch/stream/G9IUEAXQZ7/397.m3u8
+#EXTINF:-1  group-title="Познавательные",Рибалка HD
+http://ott.watch/stream/G9IUEAXQZ7/286.m3u8
+#EXTINF:-1  group-title="Познавательные",Дача HD
+http://ott.watch/stream/G9IUEAXQZ7/370.m3u8
+#EXTINF:-1  group-title="Познавательные",Мега HD
+http://ott.watch/stream/G9IUEAXQZ7/325.m3u8
+#EXTINF:-1  group-title="Познавательные",Фауна
+http://ott.watch/stream/G9IUEAXQZ7/401.m3u8
+#EXTINF:-1  group-title="Познавательные",Терра
+http://ott.watch/stream/G9IUEAXQZ7/402.m3u8
+#EXTINF:-1  group-title="Познавательные",Наука
+http://ott.watch/stream/G9IUEAXQZ7/403.m3u8
+#EXTINF:-1  group-title="Познавательные",Автомобільний HD
+http://ott.watch/stream/G9IUEAXQZ7/404.m3u8
+#EXTINF:-1  group-title="Познавательные",6 Соток HD
+http://ott.watch/stream/G9IUEAXQZ7/405.m3u8
+#EXTINF:-1  group-title="Познавательные",Закон HD
+http://ott.watch/stream/G9IUEAXQZ7/406.m3u8
+#EXTINF:-1  group-title="Познавательные",Масон HD
+http://ott.watch/stream/G9IUEAXQZ7/346.m3u8
+#EXTINF:-1  group-title="Познавательные",Трофей HD
+http://ott.watch/stream/G9IUEAXQZ7/357.m3u8
+#EXTINF:-1  group-title="Кино",Кинопремьера HD
+http://ott.watch/stream/G9IUEAXQZ7/160.m3u8
+#EXTINF:-1  group-title="Кино",Кинокомедия HD
+http://ott.watch/stream/G9IUEAXQZ7/265.m3u8
+#EXTINF:-1  group-title="Кино",Киносемья HD
+http://ott.watch/stream/G9IUEAXQZ7/170.m3u8
+#EXTINF:-1  group-title="Кино",Киносвидание HD
+http://ott.watch/stream/G9IUEAXQZ7/171.m3u8
+#EXTINF:-1  group-title="Кино",Кинохит HD
+http://ott.watch/stream/G9IUEAXQZ7/126.m3u8
+#EXTINF:-1  group-title="Кино",Киномикс HD
+http://ott.watch/stream/G9IUEAXQZ7/133.m3u8
+#EXTINF:-1  group-title="Кино",Родное кино
+http://ott.watch/stream/G9IUEAXQZ7/242.m3u8
+#EXTINF:-1  group-title="Кино",Индийское кино
+http://ott.watch/stream/G9IUEAXQZ7/104.m3u8
+#EXTINF:-1  group-title="Кино",Мужское кино HD
+http://ott.watch/stream/G9IUEAXQZ7/107.m3u8
+#EXTINF:-1  group-title="Кино",Киноужас HD
+http://ott.watch/stream/G9IUEAXQZ7/278.m3u8
+#EXTINF:-1  group-title="Кино",Viju TV 1000 HD
+http://ott.watch/stream/G9IUEAXQZ7/110.m3u8
+#EXTINF:-1  group-title="Кино",Viju TV 1000 Action HD
+http://ott.watch/stream/G9IUEAXQZ7/100.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Premiere HD
+http://ott.watch/stream/G9IUEAXQZ7/202.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Megahit HD
+http://ott.watch/stream/G9IUEAXQZ7/200.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Comedy HD
+http://ott.watch/stream/G9IUEAXQZ7/201.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Serial HD
+http://ott.watch/stream/G9IUEAXQZ7/311.m3u8
+#EXTINF:-1  group-title="Кино",Комедийное HD
+http://ott.watch/stream/G9IUEAXQZ7/74.m3u8
+#EXTINF:-1  group-title="Кино",Amedia Premium HD
+http://ott.watch/stream/G9IUEAXQZ7/151.m3u8
+#EXTINF:-1  group-title="Кино",Amedia 1 HD
+http://ott.watch/stream/G9IUEAXQZ7/117.m3u8
+#EXTINF:-1  group-title="Кино",Amedia Hit HD
+http://ott.watch/stream/G9IUEAXQZ7/162.m3u8
+#EXTINF:-1  group-title="Кино",Роман HD
+http://ott.watch/stream/G9IUEAXQZ7/266.m3u8
+#EXTINF:-1  group-title="Кино",Иллюзион
+http://ott.watch/stream/G9IUEAXQZ7/122.m3u8
+#EXTINF:-1  group-title="Кино",Бестселлер
+http://ott.watch/stream/G9IUEAXQZ7/208.m3u8
+#EXTINF:-1  group-title="Кино",Детектив
+http://ott.watch/stream/G9IUEAXQZ7/204.m3u8
+#EXTINF:-1  group-title="Кино",Комедия
+http://ott.watch/stream/G9IUEAXQZ7/68.m3u8
+#EXTINF:-1  group-title="Кино",black HD
+http://ott.watch/stream/G9IUEAXQZ7/263.m3u8
+#EXTINF:-1  group-title="Кино",Время
+http://ott.watch/stream/G9IUEAXQZ7/237.m3u8
+#EXTINF:-1  group-title="Кино",red HD
+http://ott.watch/stream/G9IUEAXQZ7/69.m3u8
+#EXTINF:-1  group-title="Кино",sci-fi HD
+http://ott.watch/stream/G9IUEAXQZ7/180.m3u8
+#EXTINF:-1  group-title="Кино",Наше HD
+http://ott.watch/stream/G9IUEAXQZ7/217.m3u8
+#EXTINF:-1  group-title="Кино",Душевное HD
+http://ott.watch/stream/G9IUEAXQZ7/213.m3u8
+#EXTINF:-1  group-title="Кино",КиноТВ HD
+http://ott.watch/stream/G9IUEAXQZ7/221.m3u8
+#EXTINF:-1  group-title="Кино",Кинопоказ HD
+http://ott.watch/stream/G9IUEAXQZ7/64.m3u8
+#EXTINF:-1  group-title="Кино",Cinema HD
+http://ott.watch/stream/G9IUEAXQZ7/62.m3u8
+#EXTINF:-1  group-title="Кино",НСТ
+http://ott.watch/stream/G9IUEAXQZ7/207.m3u8
+#EXTINF:-1  group-title="Кино",Еврокино HD
+http://ott.watch/stream/G9IUEAXQZ7/385.m3u8
+#EXTINF:-1  group-title="Кино",ТВ XXI
+http://ott.watch/stream/G9IUEAXQZ7/152.m3u8
+#EXTINF:-1  group-title="Кино",Plan B HD
+http://ott.watch/stream/G9IUEAXQZ7/196.m3u8
+#EXTINF:-1  group-title="Кино",Остросюжетное HD
+http://ott.watch/stream/G9IUEAXQZ7/214.m3u8
+#EXTINF:-1  group-title="Кино",Дом Кино
+http://ott.watch/stream/G9IUEAXQZ7/236.m3u8
+#EXTINF:-1  group-title="Кино",Дом Кино Премиум HD
+http://ott.watch/stream/G9IUEAXQZ7/108.m3u8
+#EXTINF:-1  group-title="Кино",Hollywood HD
+http://ott.watch/stream/G9IUEAXQZ7/268.m3u8
+#EXTINF:-1  group-title="Кино",НТВ Сериал
+http://ott.watch/stream/G9IUEAXQZ7/301.m3u8
+#EXTINF:-1  group-title="Кино",Телекафе
+http://ott.watch/stream/G9IUEAXQZ7/314.m3u8
+#EXTINF:-1  group-title="Кино",24Техно
+http://ott.watch/stream/G9IUEAXQZ7/209.m3u8
+#EXTINF:-1  group-title="Кино",Наше мужское HD
+http://ott.watch/stream/G9IUEAXQZ7/362.m3u8
+#EXTINF:-1  group-title="Кино",Блокбастер HD
+http://ott.watch/stream/G9IUEAXQZ7/364.m3u8
+#EXTINF:-1  group-title="Кино",Star Family HD
+http://ott.watch/stream/G9IUEAXQZ7/226.m3u8
+#EXTINF:-1  group-title="Кино",Kino 1 HD
+http://ott.watch/stream/G9IUEAXQZ7/395.m3u8
+#EXTINF:-1  group-title="Кино",Шокирующее HD
+http://ott.watch/stream/G9IUEAXQZ7/75.m3u8
+#EXTINF:-1  group-title="Кино",Хит HD
+http://ott.watch/stream/G9IUEAXQZ7/363.m3u8
+#EXTINF:-1  group-title="Кино",Мосфильм. Золотая коллекция HD
+http://ott.watch/stream/G9IUEAXQZ7/369.m3u8
+#EXTINF:-1  group-title="Кино",Премиальное HD
+http://ott.watch/stream/G9IUEAXQZ7/421.m3u8
+#EXTINF:-1  group-title="Кино",Ретро
+http://ott.watch/stream/G9IUEAXQZ7/191.m3u8
+#EXTINF:-1  group-title="Кино",FAN HD
+http://ott.watch/stream/G9IUEAXQZ7/420.m3u8
+#EXTINF:-1  group-title="Кино",Дорама HD
+http://ott.watch/stream/G9IUEAXQZ7/412.m3u8
+#EXTINF:-1  group-title="Кино",CineMan HD
+http://ott.watch/stream/G9IUEAXQZ7/349.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Top HD
+http://ott.watch/stream/G9IUEAXQZ7/350.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Action HD
+http://ott.watch/stream/G9IUEAXQZ7/351.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Thriller HD
+http://ott.watch/stream/G9IUEAXQZ7/352.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Marvel HD
+http://ott.watch/stream/G9IUEAXQZ7/354.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Ужасы HD
+http://ott.watch/stream/G9IUEAXQZ7/355.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Comedy HD
+http://ott.watch/stream/G9IUEAXQZ7/356.m3u8
+#EXTINF:-1  group-title="Кино",CineMan РуКино HD
+http://ott.watch/stream/G9IUEAXQZ7/358.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Сваты HD
+http://ott.watch/stream/G9IUEAXQZ7/359.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Rating HD
+http://ott.watch/stream/G9IUEAXQZ7/422.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Cinema HD
+http://ott.watch/stream/G9IUEAXQZ7/423.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Premiere HD
+http://ott.watch/stream/G9IUEAXQZ7/424.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Comedy HD
+http://ott.watch/stream/G9IUEAXQZ7/426.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Family HD
+http://ott.watch/stream/G9IUEAXQZ7/427.m3u8
+#EXTINF:-1  group-title="Кино",Fresh VHS HD
+http://ott.watch/stream/G9IUEAXQZ7/428.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Fantastic HD
+http://ott.watch/stream/G9IUEAXQZ7/429.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Series HD
+http://ott.watch/stream/G9IUEAXQZ7/430.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Horror HD
+http://ott.watch/stream/G9IUEAXQZ7/431.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Adventure HD
+http://ott.watch/stream/G9IUEAXQZ7/432.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Romantic HD
+http://ott.watch/stream/G9IUEAXQZ7/433.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Thriller HD
+http://ott.watch/stream/G9IUEAXQZ7/434.m3u8
+#EXTINF:-1  group-title="Кино",Comedy Central
+http://ott.watch/stream/G9IUEAXQZ7/167.m3u8
+#EXTINF:-1  group-title="Кино",Fox HD
+http://ott.watch/stream/G9IUEAXQZ7/182.m3u8
+#EXTINF:-1  group-title="Кино",Fox Life HD
+http://ott.watch/stream/G9IUEAXQZ7/129.m3u8
+#EXTINF:-1  group-title="Кино",Star Cinema HD
+http://ott.watch/stream/G9IUEAXQZ7/310.m3u8
+#EXTINF:-1  group-title="Кино",Enter-фільм HD
+http://ott.watch/stream/G9IUEAXQZ7/322.m3u8
