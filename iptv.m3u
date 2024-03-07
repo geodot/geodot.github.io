@@ -1,4 +1,6 @@
 ﻿#EXTM3U 
+#EXTINF:-1  group-title="Развлекательные",Пятница!
+http://ch01.spr24.net/5300/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:-1  group-title="Развлекательные",Пятница! (Оригинал)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные",Пятница! (+4)
@@ -7,6 +9,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&off
 http://ott.watch/stream/G9IUEAXQZ7/216.m3u8
 #EXTINF:-1  group-title="Еда",Food Network HD
 http://ott.watch/stream/G9IUEAXQZ7/298.m3u8
+#EXTINF:-1  group-title="Еда",Соль ТВ HD
+http://ott.watch/stream/G9IUEAXQZ7/398.m3u8
 #EXTINF:-1  group-title="Еда",Кус-кус HD
 http://ott.watch/stream/G9IUEAXQZ7/195.m3u8
 #EXTINF:-1  group-title="Развлекательные",E HD
@@ -59,8 +63,6 @@ http://ott.watch/stream/G9IUEAXQZ7/239.m3u8
 http://ott.watch/stream/G9IUEAXQZ7/240.m3u8
 #EXTINF:-1  group-title="Познавательные",Viju History HD
 http://ott.watch/stream/G9IUEAXQZ7/101.m3u8
-#EXTINF:-1  group-title="Познавательные",Соль ТВ HD
-http://ott.watch/stream/G9IUEAXQZ7/398.m3u8
 #EXTINF:-1  group-title="Познавательные",Чемодан ТВ HD
 http://ott.watch/stream/G9IUEAXQZ7/399.m3u8
 #EXTINF:-1  group-title="Познавательные",365 дней ТВ
