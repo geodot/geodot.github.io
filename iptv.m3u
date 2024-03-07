@@ -1,6 +1,12 @@
 ﻿#EXTM3U 
-#EXTINF:-1  group-title="Развлекательные",Пятница!
+#EXTINF:-1  group-title="Пятница! HD",Пятница! HD
+http://ch01.spr24.net/213/index.m3u8?token=YRZ9ep8ifpCCr6
+#EXTINF:-1  group-title="Пятница!",Пятница!
 http://ch01.spr24.net/5300/index.m3u8?token=YRZ9ep8ifpCCr6
+#EXTINF:-1  group-title="Пятница! (+2)",Пятница! (+2)
+http://ch01.spr24.net/1716/index.m3u8?token=YRZ9ep8ifpCCr6
+#EXTINF:-1  group-title="Пятница! (+4)",Пятница! (+4)
+http://ch01.spr24.net/1746/index.m3u8?token=YRZ9ep8ifpCCr6
 #EXTINF:-1  group-title="Развлекательные",Пятница! (Оригинал)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные",Пятница! (+4)
