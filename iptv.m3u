@@ -21,6 +21,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/110/index.m3u8
 #EXTINF:-1  group-title="Развлекательные",СТС
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
+#EXTINF:-1  group-title="Познавательные",Вопросы и ответы
+http://ott.watch/stream/G9IUEAXQZ7/76.m3u8
+#EXTINF:-1  group-title="Познавательные",Quiz TV HD
+http://ott.watch/stream/G9IUEAXQZ7/397.m3u8
 #EXTINF:-1  group-title="Познавательные",Discovery HD
 http://ott.watch/stream/G9IUEAXQZ7/177.m3u8
 #EXTINF:-1  group-title="Познавательные",Discovery Science HD
@@ -113,8 +117,6 @@ http://ott.watch/stream/G9IUEAXQZ7/419.m3u8
 http://ott.watch/stream/G9IUEAXQZ7/116.m3u8
 #EXTINF:-1  group-title="Познавательные",Nat Geo Wild HD
 http://ott.watch/stream/G9IUEAXQZ7/149.m3u8
-#EXTINF:-1  group-title="Познавательные",Quiz TV HD
-http://ott.watch/stream/G9IUEAXQZ7/397.m3u8
 #EXTINF:-1  group-title="Познавательные",Рибалка HD
 http://ott.watch/stream/G9IUEAXQZ7/286.m3u8
 #EXTINF:-1  group-title="Познавательные",Дача HD
