@@ -19,6 +19,8 @@ http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1  group-title="Развлекательные",Food time [1920x1080]
 http://46.8.29.51:2020/channel/n723486ec/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1  group-title="Познавательные",Наука 2.0 HD
+http://ott.watch/stream/FW77EY74W5/125.m3u8
 #EXTINF:-1  group-title="Познавательные",Discovery HD
 http://ott.watch/stream/MEI6N69CKG/177.m3u8
 #EXTINF:-1  group-title="Познавательные",Investigation Discovery
@@ -121,8 +123,6 @@ http://ott.watch/stream/MEI6N69CKG/357.m3u8
 http://ott.watch/stream/MEI6N69CKG/419.m3u8
 #EXTINF:-1  group-title="",Доктор
 http://188.113.190.15/29/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Домашние животные
-http://91.207.115.228:5000/c159
 #EXTINF:-1  group-title="",ЕГЭ
 http://camera.global-x.ru/EGETV/mono.m3u8
 #EXTINF:-1  group-title="",Живая планета
@@ -143,22 +143,12 @@ http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
 http://109.239.208.82:80/history/index.m3u8
 #EXTINF:-1  group-title="",Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",Ключ
-http://95.52.171.87:81/play/a014
 #EXTINF:-1  group-title="",Конгресс ТВ
 http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1  group-title="",Кто есть кто
-https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
 #EXTINF:-1  group-title="",Мир вокруг
 http://81.28.217.78:4022/udp/239.211.211.73:1234
 #EXTINF:-1  group-title="",МосОбр ТВ
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1  group-title="",Моя планета
-http://91.207.115.228:5000/c82
-#EXTINF:-1  group-title="",Моя планета HD
-https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
-#EXTINF:-1  group-title="",Мы
-https://strm.yandex.ru/kal/my/my0.m3u8
 #EXTINF:-1  group-title="",Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1  group-title="",Неизвестная Россия
@@ -173,8 +163,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1  group-title="",Открытый мир
 http://146.158.0.56:80/OtkritiyMir/index.m3u8
-#EXTINF:-1  group-title="",Первый космический
-https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
 #EXTINF:-1  group-title="",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1  group-title="",Перец
@@ -183,8 +171,6 @@ http://178.124.179.122:8088/Peretz/index.m3u8
 http://188.113.190.15/85/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="",Поехали!
 http://188.113.190.15/206/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Приключения HD
-http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
 #EXTINF:-1  group-title="",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1  group-title="",Просвещение
@@ -203,12 +189,6 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1  group-title="",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1  group-title="",Танцуй!
-http://92.242.110.52:9835/udp/238.1.9.2:1234
-#EXTINF:-1  group-title="",Телепутешествия
-http://91.207.115.228:5000/c93
-#EXTINF:-1  group-title="",Техно 24
-https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
 #EXTINF:-1  group-title="",Театр
 http://188.113.190.15/180/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="",Тонус
@@ -235,52 +215,30 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1  group-title="",Animal Planet
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
-#EXTINF:-1  group-title="",Animal Planet HD
-http://91.207.115.228:5000/c147
-#EXTINF:-1  group-title="",Big Planet
-http://91.207.115.228:5000/c94
 #EXTINF:-1  group-title="",Da Vinci
 http://188.113.190.15/161/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="",Discovery
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
-#EXTINF:-1  group-title="",Discovery HD
-http://91.207.115.228:5000/c146
 #EXTINF:-1  group-title="",Docubox
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1  group-title="",DTX Poland HD
 http://178.219.128.68:64888/DTXHD
-#EXTINF:-1  group-title="",English Class
-http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
-#EXTINF:-1  group-title="",Epic HD
-http://strm.yandex.ru/kal/epic/epic0.m3u8
 #EXTINF:-1  group-title="",Gagsnetwork
 http://91.205.199.3/gagsnetwork/index.m3u8
 #EXTINF:-1  group-title="",Galaxy TV
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1  group-title="",Galaxy HD
-https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
-#EXTINF:-1  group-title="",HDL
-https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
 #EXTINF:-1  group-title="",HGTV
 http://31.131.136.4:8001/play/e017
 #EXTINF:-1  group-title="",History
 http://195.211.27.149:8887/8356/index.m3u8?token=test
-#EXTINF:-1  group-title="",History HD
-http://stream01.vnet.am/Channel_123/mono.m3u8
-#EXTINF:-1  group-title="",Insight UHD
-http://5.153.180.133:8004/play/a06m
 #EXTINF:-1  group-title="",Investigation Discovery HD
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1  group-title="",Museum HD
 http://81.7.108.21:9000/play/DTXHD-DVBC386-sti4400018360108
 #EXTINF:-1  group-title="",Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",Nat Geo Wild HD
-https://st1.uzdigital.tv/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="",National Geographic
 http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:-1  group-title="",National Geographic HD
-https://st1.uzdigital.tv/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="",RT Doc
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1  group-title="",RTG HD
@@ -295,8 +253,6 @@ http://188.113.190.15/163/mono.m3u8
 http://188.113.190.15/78/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="",TLC
 http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
-#EXTINF:-1  group-title="",TLC HD
-http://91.207.115.228:5000/c151
 #EXTINF:-1  group-title="",Top Secret
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1  group-title="",TV Brics
@@ -309,8 +265,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://188.113.190.15/106/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="",Travel Channel
 http://81.7.108.21:9000/play/TravelChannelHD-DVBC330-sti4400019110542
-#EXTINF:-1  group-title="",Travel Channel HD
-http://91.207.115.228:5000/c149
 #EXTINF:-1  group-title="",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1  group-title="",Viju Nature
@@ -323,32 +277,18 @@ http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 http://141.95.55.143/CH3871/index.m3u8
 #EXTINF:-1  group-title="",Viju Explore
 http://91.205.199.3/viasatexplorer/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",Viju+ Planet HD
-http://91.205.199.7:8000/play/a0r8
 #EXTINF:-1  group-title="",Zooпарк
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1  group-title="",Авто 24
 http://91.205.199.3:80/avto24/index.m3u8
-#EXTINF:-1  group-title="",Авто Плюс HD
-https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
 #EXTINF:-1  group-title="",Бобëр
 http://188.113.190.15/131/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
-#EXTINF:-1  group-title="",Дикая охота HD
-http://81.23.189.199:4022/udp/234.0.0.11:2000
 #EXTINF:-1  group-title="",Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1  group-title="",Дикий
 http://95.156.76.230:33001/udp/230.4.34.78:1234
 #EXTINF:-1  group-title="",Драйв
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Еда Премиум Международный HD
-https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
-#EXTINF:-1  group-title="",Живи
-https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
-#EXTINF:-1  group-title="",Загородная жизнь HD
-https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1  group-title="",Загородный
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1  group-title="",Конный мир
@@ -369,261 +309,245 @@ http://188.113.190.15/218/tracks-v1a1/index.m3u8
 https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1  group-title="",Оружие
 http://188.113.190.15/155/mono.m3u8
-#EXTINF:-1  group-title="",Охотник и рыболов
-http://81.23.189.63:4022/udp/234.0.0.98:2000
-#EXTINF:-1  group-title="",Охотник и рыболов HD
-https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
 #EXTINF:-1  group-title="",Первый вегетарианский
 http://88.85.172.243:7012/play/a02m
 #EXTINF:-1  group-title="",Рыбалка и охота
 http://86.57.178.105:9952/oh
-#EXTINF:-1  group-title="",Рыболов
-http://91.207.115.228:5000/c109
-#EXTINF:-1  group-title="",Телекафе
-http://81.23.189.63:4022/udp/234.0.0.249:2000
 #EXTINF:-1  group-title="",Усадьба
 http://188.113.190.15/71/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Fashion & Lifestyle
-https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
 #EXTINF:-1  group-title="",Fashion TV HD
 http://188.113.190.15/194/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="",FashionBox
 http://camera.global-x.ru/FashionBox/index.m3u8
-#EXTINF:-1  group-title="",Food Network
-http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1  group-title="",World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1  group-title="",.black
-http://91.205.199.3/black/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",.red
-http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="",.red HD
-http://188.113.190.15/149/mono.m3u8
-#EXTINF:-1  group-title="",312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1  group-title="",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1  group-title="",Видеокассета
-https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-#EXTINF:-1  group-title="",День Победы
-https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1  group-title="",Дом кино
-http://31.210.208.171:8080/domkino/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="",Дом кино Премиум
-http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",Дом кино Премиум HD
-http://188.113.190.15/91/video.m3u8
-#EXTINF:-1  group-title="",Дорама
-http://188.113.190.15/233/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Душевное HD
-http://195.211.27.149:8887/8296/index.m3u8?token=test
-#EXTINF:-1  group-title="",Еврокино
-http://188.113.190.15/49/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Иллюзион+
-http://188.113.190.15/45/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Индийское кино
-https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
-#EXTINF:-1  group-title="",Индия
-http://95.156.76.230:33001/udp/230.4.34.105:1234
-#EXTINF:-1  group-title="",Кинеко
-http://95.156.76.230:33001/udp/230.4.34.85:1234
-#EXTINF:-1  group-title="",Кинеко HD
-http://188.113.190.15/156/mono.m3u8
-#EXTINF:-1  group-title="",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1  group-title="",Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",Кино ТВ +4
-http://live-3.otcnet.ru/kinotvplus4/index.m3u8
-#EXTINF:-1  group-title="",Кино ТВ +7
-http://live-3.otcnet.ru/kinotvplus7/index.m3u8
-#EXTINF:-1  group-title="",Кино ТВ HD
-http://95.52.171.87:82/play/a067
-#EXTINF:-1  group-title="",Кино ТВ HD +7
-http://live-3.otcnet.ru/kinotvplus7/index.m3u8
-#EXTINF:-1  group-title="",Кинокомедия
-http://91.207.115.228:5000/c46
-#EXTINF:-1  group-title="",Кинокомедия HD
-http://188.113.190.15/334/video.m3u8
-#EXTINF:-1  group-title="",Киномикс
-https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
-#EXTINF:-1  group-title="",Киномикс HD
-http://188.113.190.15/335/video.m3u8
-#EXTINF:-1  group-title="",Кинопоказ
-http://91.207.115.228:5000/c28
-#EXTINF:-1  group-title="",Кинопремьера
-http://91.207.115.228:5000/c42
-#EXTINF:-1  group-title="",Кинопремьера HD
-https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
-#EXTINF:-1  group-title="",Киносат
-https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
-#EXTINF:-1  group-title="",Киносвидание
-http://91.205.199.3/kinosvidanie/index.m3u8
-#EXTINF:-1  group-title="",Киносемья
-http://91.207.115.228:5000/c39
-#EXTINF:-1  group-title="",Киносемья HD
-http://91.205.199.3:80/kinosemyahd/index.m3u8
-#EXTINF:-1  group-title="",Киносерия
-http://188.113.190.15/312/video.m3u8
-#EXTINF:-1  group-title="",Киносерия HD
-http://188.113.190.15/336/mono.m3u8
-#EXTINF:-1  group-title="",Киноужас
-http://31.131.136.4:8001/play/e00b
-#EXTINF:-1  group-title="",Киноужас HD
-http://188.113.190.15/323/mono.m3u8
-#EXTINF:-1  group-title="",Кинохит
-https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
-#EXTINF:-1  group-title="",Кинохит HD
-http://91.205.199.3:80/kinoxithd/index.m3u8
-#EXTINF:-1  group-title="",Комедийное HD
-http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
-#EXTINF:-1  group-title="",Комедия
-http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1  group-title="",Любимое HD
-http://195.211.27.149:8887/8310/index.m3u8?token=test
-#EXTINF:-1  group-title="",Любимое кино
-http://92.242.110.52:9835/udp/238.1.11.70:1234
-#EXTINF:-1  group-title="",Мир сериала
-http://188.113.190.15/188/video.m3u8
-#EXTINF:-1  group-title="",Мосфильм. Золотая коллекция
-http://95.156.76.230:33001/udp/230.4.34.124:1234
-#EXTINF:-1  group-title="",Мужское кино
-https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
-#EXTINF:-1  group-title="",Мужское кино HD
-http://hlstest.eltex-media.ru:8085/menfilm/index.m3u8
-#EXTINF:-1  group-title="",Наше HD
-http://195.211.27.149:8887/8059/index.m3u8?token=test
-#EXTINF:-1  group-title="",Наше новое кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
-#EXTINF:-1  group-title="",НСТ
-http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
-#EXTINF:-1  group-title="",НТВ-Хит HD
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1  group-title="",НТВ-Сериал HD
-https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1  group-title="",Родное кино
-https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
-#EXTINF:-1  group-title="",Русский бестселлер
-http://91.142.158.107:8092/play/26/index.m3u8
-#EXTINF:-1  group-title="",Русский детектив
-http://91.142.158.107:8092/play/27/index.m3u8
-#EXTINF:-1  group-title="",Русский иллюзион
-http://195.191.130.11:9000/play/a00u/index.m3u8
-#EXTINF:-1  group-title="",Русский роман
-http://91.142.158.107:8092/play/25/index.m3u8
-#EXTINF:-1  group-title="",Русский роман HD
-http://188.113.190.15/221/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Сапфир HD
-http://188.113.190.15/182/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Страх HD
-http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1  group-title="",Феникс Плюс Кино
-http://188.113.190.15/24/mono.m3u8
-#EXTINF:-1  group-title="",A1
-http://91.205.199.3/amedia1/index.m3u8
-#EXTINF:-1  group-title="",A2
-http://91.205.199.3/amedia2/index.m3u8
-#EXTINF:-1  group-title="",A2 HD
-http://95.52.171.87:82/play/a050
-#EXTINF:-1  group-title="",Amedia Hit
-http://91.207.115.228:5000/c57
-#EXTINF:-1  group-title="",Amedia Hit HD
-http://stream01.vnet.am/Nauka/index.m3u8
-#EXTINF:-1  group-title="",Amedia Premium
-http://188.113.190.15/140/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="",Amedia Premium HD
-http://78.62.135.122:8082/amediapremiumhd/index.m3u8
-#EXTINF:-1  group-title="",BackusTV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1  group-title="",BackusTV Dark HD
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1  group-title="",Bollywood HD
-https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
-#EXTINF:-1  group-title="",Bolt
-http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
-#EXTINF:-1  group-title="",Cinema HD
-https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:-1  group-title="",Cinema Classic
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1  group-title="",Comedy Central
-http://5.153.180.133:8001/play/a09c
-#EXTINF:-1  group-title="",Epic Drama
-http://81.7.108.21:9000/play/EpicDramaHD-DVBC330-sti4400019110542
-#EXTINF:-1  group-title="",FAN
-http://92.242.110.52:9835/udp/238.1.7.6:1234
-#EXTINF:-1  group-title="",FilmBox
-http://81.7.108.21:9000/play/FilmBox-DVBC330-sti4400019110542
-#EXTINF:-1  group-title="",FilmBox Arthouse
-http://188.113.190.15/207/mono.m3u8
-#EXTINF:-1  group-title="",FlixSnip
-http://91.207.115.228:5000/c60
-#EXTINF:-1  group-title="",FX
-http://81.7.108.21:9000/play/FOX-DVBC274-sti4400018450230
-#EXTINF:-1  group-title="",FX Life HD
-http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
-#EXTINF:-1  group-title="",Hollywood HD
-https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
-#EXTINF:-1  group-title="",Kinojam 1
-http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
-#EXTINF:-1  group-title="",Kinoliving
-http://91.207.115.228:5000/c61
-#EXTINF:-1  group-title="",Kino24
-http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="",Plan B
-http://88.85.172.243:7012/play/a028
-#EXTINF:-1  group-title="",Shot TV
-http://91.207.115.228:5000/c131
-#EXTINF:-1  group-title="",Star Cinema
-http://81.7.108.21:9000/play/StarCinema-DVBC378-sti4400019110528
-#EXTINF:-1  group-title="",Star Family
-http://5.153.180.133:8004/play/a09i
-#EXTINF:-1  group-title="",Start Air
-http://188.113.190.15/139/mono.m3u8
-#EXTINF:-1  group-title="",Start World
-http://188.113.190.15/111/mono.m3u8
-#EXTINF:-1  group-title="",Timeless Dizi Channel
-https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
-#EXTINF:-1  group-title="",Trash
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1  group-title="",TV XXI
-https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1  group-title="",Ultra HD Cinema (Архив)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1  group-title="",VHS-ка
-http://176.197.188.55:81/udp/239.255.42.88:1234
-#EXTINF:-1  group-title="",Viasat Kino
-http://81.7.108.21:9000/play/TV1000-DVBC322-sti4400017090089
-#EXTINF:-1  group-title="",Viasat Kino Action
-http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
-#EXTINF:-1  group-title="",Viasat Kino World
-http://81.7.108.21:9000/play/TV1000RusskojeKino-DVBC322-sti4400017090089
-#EXTINF:-1  group-title="",Viju TV1000
-http://91.205.199.3/tv1000/index.m3u8
-#EXTINF:-1  group-title="",Viju TV1000 HD
-http://141.95.55.143/CH3869/index.m3u8
-#EXTINF:-1  group-title="",Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
-#EXTINF:-1  group-title="",Viju TV1000 Русское кино
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
-#EXTINF:-1  group-title="",Viju+ Premiere HD
-http://91.207.115.228:5000/c145
-#EXTINF:-1  group-title="",Viju+ Megahit HD
-http://91.205.199.3/vipmegahit/index.m3u8
-#EXTINF:-1  group-title="",Viju+ Comedy HD
-http://91.205.199.3/vipcomedi/index.m3u8
-#EXTINF:-1  group-title="",Viju+ Serial HD
-http://91.205.199.3:80/vipserialhd/index.m3u8
-#EXTINF:-1  group-title="",JimJam
-http://141.95.55.143/CH277/index.m3u8
-#EXTINF:-1  group-title="",Kids TV
-http://5.153.180.133:8002/play/a0bv
-#EXTINF:-1  group-title="",Nickelodeon
-http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1  group-title="",Nickelodeon HD
-http://stream01.vnet.am/Channel_114/mono.m3u8
-#EXTINF:-1  group-title="",Nick Jr.
-http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
-#EXTINF:-1  group-title="",Nicktoons
-http://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1  group-title="",TiJi
-https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1  group-title="Кино",Кинокомедия HD
+http://ott.watch/stream/FW77EY74W5/265.m3u8
+#EXTINF:-1  group-title="Кино",Киносемья HD
+http://ott.watch/stream/FW77EY74W5/170.m3u8
+#EXTINF:-1  group-title="Кино",Киносвидание HD
+http://ott.watch/stream/FW77EY74W5/171.m3u8
+#EXTINF:-1  group-title="Кино",Кинохит HD
+http://ott.watch/stream/FW77EY74W5/126.m3u8
+#EXTINF:-1  group-title="Кино",Киномикс HD
+http://ott.watch/stream/FW77EY74W5/133.m3u8
+#EXTINF:-1  group-title="Кино",Родное кино
+http://ott.watch/stream/FW77EY74W5/242.m3u8
+#EXTINF:-1  group-title="Кино",Индийское кино
+http://ott.watch/stream/FW77EY74W5/104.m3u8
+#EXTINF:-1  group-title="Кино",Мужское кино HD
+http://ott.watch/stream/FW77EY74W5/107.m3u8
+#EXTINF:-1  group-title="Кино",Киноужас HD
+http://ott.watch/stream/FW77EY74W5/278.m3u8
+#EXTINF:-1  group-title="Кино",Viju TV 1000 HD
+http://ott.watch/stream/FW77EY74W5/110.m3u8
+#EXTINF:-1  group-title="Кино",Viju TV 1000 Action HD
+http://ott.watch/stream/FW77EY74W5/100.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Premiere HD
+http://ott.watch/stream/FW77EY74W5/202.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Megahit HD
+http://ott.watch/stream/FW77EY74W5/200.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Comedy HD
+http://ott.watch/stream/FW77EY74W5/201.m3u8
+#EXTINF:-1  group-title="Кино",Viju+ Serial HD
+http://ott.watch/stream/FW77EY74W5/311.m3u8
+#EXTINF:-1  group-title="Кино",Комедийное HD
+http://ott.watch/stream/FW77EY74W5/74.m3u8
+#EXTINF:-1  group-title="Кино",Amedia Premium HD
+http://ott.watch/stream/FW77EY74W5/151.m3u8
+#EXTINF:-1  group-title="Кино",Amedia 1 HD
+http://ott.watch/stream/FW77EY74W5/117.m3u8
+#EXTINF:-1  group-title="Кино",Amedia Hit HD
+http://ott.watch/stream/FW77EY74W5/162.m3u8
+#EXTINF:-1  group-title="Кино",Роман HD
+http://ott.watch/stream/FW77EY74W5/266.m3u8
+#EXTINF:-1  group-title="Кино",Бестселлер
+http://ott.watch/stream/FW77EY74W5/208.m3u8
+#EXTINF:-1  group-title="Кино",Детектив
+http://ott.watch/stream/FW77EY74W5/204.m3u8
+#EXTINF:-1  group-title="Кино",Комедия
+http://ott.watch/stream/FW77EY74W5/68.m3u8
+#EXTINF:-1  group-title="Кино",Comedy Central
+http://ott.watch/stream/FW77EY74W5/167.m3u8
+#EXTINF:-1  group-title="Кино",black HD
+http://ott.watch/stream/FW77EY74W5/263.m3u8
+#EXTINF:-1  group-title="Кино",Время
+http://ott.watch/stream/FW77EY74W5/237.m3u8
+#EXTINF:-1  group-title="Кино",red HD
+http://ott.watch/stream/FW77EY74W5/69.m3u8
+#EXTINF:-1  group-title="Кино",sci-fi HD
+http://ott.watch/stream/FW77EY74W5/180.m3u8
+#EXTINF:-1  group-title="Кино",Наше HD
+http://ott.watch/stream/FW77EY74W5/217.m3u8
+#EXTINF:-1  group-title="Кино",Душевное HD
+http://ott.watch/stream/FW77EY74W5/213.m3u8
+#EXTINF:-1  group-title="Кино",КиноТВ HD
+http://ott.watch/stream/FW77EY74W5/221.m3u8
+#EXTINF:-1  group-title="Кино",Кинопоказ HD
+http://ott.watch/stream/FW77EY74W5/64.m3u8
+#EXTINF:-1  group-title="Кино",Cinema HD
+http://ott.watch/stream/FW77EY74W5/62.m3u8
+#EXTINF:-1  group-title="Кино",НСТ
+http://ott.watch/stream/FW77EY74W5/207.m3u8
+#EXTINF:-1  group-title="Кино",Еврокино HD
+http://ott.watch/stream/FW77EY74W5/385.m3u8
+#EXTINF:-1  group-title="Кино",Fox HD
+http://ott.watch/stream/FW77EY74W5/182.m3u8
+#EXTINF:-1  group-title="Кино",Fox Life HD
+http://ott.watch/stream/FW77EY74W5/129.m3u8
+#EXTINF:-1  group-title="Кино",ТВ XXI
+http://ott.watch/stream/FW77EY74W5/152.m3u8
+#EXTINF:-1  group-title="Кино",Plan B HD
+http://ott.watch/stream/FW77EY74W5/196.m3u8
+#EXTINF:-1  group-title="Кино",Остросюжетное HD
+http://ott.watch/stream/FW77EY74W5/214.m3u8
+#EXTINF:-1  group-title="Кино",Дом Кино
+http://ott.watch/stream/FW77EY74W5/236.m3u8
+#EXTINF:-1  group-title="Кино",Дом Кино Премиум HD
+http://ott.watch/stream/FW77EY74W5/108.m3u8
+#EXTINF:-1  group-title="Кино",Hollywood HD
+http://ott.watch/stream/FW77EY74W5/268.m3u8
+#EXTINF:-1  group-title="Кино",НТВ Сериал
+http://ott.watch/stream/FW77EY74W5/301.m3u8
+#EXTINF:-1  group-title="Кино",Телекафе
+http://ott.watch/stream/FW77EY74W5/314.m3u8
+#EXTINF:-1  group-title="Кино",24Техно
+http://ott.watch/stream/FW77EY74W5/209.m3u8
+#EXTINF:-1  group-title="Кино",Наше мужское HD
+http://ott.watch/stream/FW77EY74W5/362.m3u8
+#EXTINF:-1  group-title="Кино",Блокбастер HD
+http://ott.watch/stream/FW77EY74W5/364.m3u8
+#EXTINF:-1  group-title="Кино",Star Cinema HD
+http://ott.watch/stream/FW77EY74W5/310.m3u8
+#EXTINF:-1  group-title="Кино",Star Family HD
+http://ott.watch/stream/FW77EY74W5/226.m3u8
+#EXTINF:-1  group-title="Кино",Kino 1 HD
+http://ott.watch/stream/FW77EY74W5/395.m3u8
+#EXTINF:-1  group-title="Кино",Kino 2 HD
+http://ott.watch/stream/FW77EY74W5/465.m3u8
+#EXTINF:-1  group-title="Кино",Твій Серіал HD
+http://ott.watch/stream/FW77EY74W5/466.m3u8
+#EXTINF:-1  group-title="Кино",Шокирующее HD
+http://ott.watch/stream/FW77EY74W5/75.m3u8
+#EXTINF:-1  group-title="Кино",Хит HD
+http://ott.watch/stream/FW77EY74W5/363.m3u8
+#EXTINF:-1  group-title="Кино",Enter-фільм HD
+http://ott.watch/stream/FW77EY74W5/322.m3u8
+#EXTINF:-1  group-title="Кино",Мосфильм. Золотая коллекция HD
+http://ott.watch/stream/FW77EY74W5/369.m3u8
+#EXTINF:-1  group-title="Кино",Премиальное HD
+http://ott.watch/stream/FW77EY74W5/421.m3u8
+#EXTINF:-1  group-title="Кино",Ретро
+http://ott.watch/stream/FW77EY74W5/191.m3u8
+#EXTINF:-1  group-title="Кино",FAN HD
+http://ott.watch/stream/FW77EY74W5/420.m3u8
+#EXTINF:-1  group-title="Кино",Дорама HD
+http://ott.watch/stream/FW77EY74W5/412.m3u8
+#EXTINF:-1  group-title="Кино",CineMan HD
+http://ott.watch/stream/FW77EY74W5/349.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Top HD
+http://ott.watch/stream/FW77EY74W5/350.m3u8
+#EXTINF:-1  group-title="Кино",Cineman Premium HD
+http://ott.watch/stream/FW77EY74W5/470.m3u8
+#EXTINF:-1  group-title="Кино",Cineman Катастрофы HD
+http://ott.watch/stream/FW77EY74W5/471.m3u8
+#EXTINF:-1  group-title="Кино",Cineman Мелодрама HD
+http://ott.watch/stream/FW77EY74W5/472.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Action HD
+http://ott.watch/stream/FW77EY74W5/351.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Thriller HD
+http://ott.watch/stream/FW77EY74W5/352.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Marvel HD
+http://ott.watch/stream/FW77EY74W5/354.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Ужасы HD
+http://ott.watch/stream/FW77EY74W5/355.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Comedy HD
+http://ott.watch/stream/FW77EY74W5/356.m3u8
+#EXTINF:-1  group-title="Кино",Cineman VHS HD
+http://ott.watch/stream/FW77EY74W5/474.m3u8
+#EXTINF:-1  group-title="Кино",Cineman Скорая помощь HD
+http://ott.watch/stream/FW77EY74W5/475.m3u8
+#EXTINF:-1  group-title="Кино",Cineman Ментовские войны HD
+http://ott.watch/stream/FW77EY74W5/477.m3u8
+#EXTINF:-1  group-title="Кино",CineMan Сваты HD
+http://ott.watch/stream/FW77EY74W5/359.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Rating HD
+http://ott.watch/stream/FW77EY74W5/422.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Cinema HD
+http://ott.watch/stream/FW77EY74W5/423.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Premiere HD
+http://ott.watch/stream/FW77EY74W5/424.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Comedy HD
+http://ott.watch/stream/FW77EY74W5/426.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Family HD
+http://ott.watch/stream/FW77EY74W5/427.m3u8
+#EXTINF:-1  group-title="Кино",Fresh VHS HD
+http://ott.watch/stream/FW77EY74W5/428.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Fantastic HD
+http://ott.watch/stream/FW77EY74W5/429.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Series HD
+http://ott.watch/stream/FW77EY74W5/430.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Horror HD
+http://ott.watch/stream/FW77EY74W5/431.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Adventure HD
+http://ott.watch/stream/FW77EY74W5/432.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Romantic HD
+http://ott.watch/stream/FW77EY74W5/433.m3u8
+#EXTINF:-1  group-title="Кино",Fresh Thriller HD
+http://ott.watch/stream/FW77EY74W5/434.m3u8
+#EXTINF:-1  group-title="Детские",Nickelodeon UA HD
+http://ott.watch/stream/FW77EY74W5/127.m3u8
+#EXTINF:-1  group-title="Детские",Nickelodeon
+http://ott.watch/stream/FW77EY74W5/443.m3u8
+#EXTINF:-1  group-title="Детские",Nick Jr
+http://ott.watch/stream/FW77EY74W5/220.m3u8
+#EXTINF:-1  group-title="Детские",Солнце
+http://ott.watch/stream/FW77EY74W5/118.m3u8
+#EXTINF:-1  group-title="Детские",TiJi
+http://ott.watch/stream/FW77EY74W5/111.m3u8
+#EXTINF:-1  group-title="Детские",Мульт HD
+http://ott.watch/stream/FW77EY74W5/232.m3u8
+#EXTINF:-1  group-title="Детские",Мульт и музыка
+http://ott.watch/stream/FW77EY74W5/82.m3u8
+#EXTINF:-1  group-title="Детские",JimJam
+http://ott.watch/stream/FW77EY74W5/150.m3u8
+#EXTINF:-1  group-title="Детские",Капитан Фантастика HD
+http://ott.watch/stream/FW77EY74W5/144.m3u8
+#EXTINF:-1  group-title="Детские",Карусель
+http://ott.watch/stream/FW77EY74W5/120.m3u8
+#EXTINF:-1  group-title="Детские",В гостях у сказки HD
+http://ott.watch/stream/FW77EY74W5/93.m3u8
+#EXTINF:-1  group-title="Детские",Канал О!
+http://ott.watch/stream/FW77EY74W5/60.m3u8
+#EXTINF:-1  group-title="Детские",Gulli Girl
+http://ott.watch/stream/FW77EY74W5/305.m3u8
+#EXTINF:-1  group-title="Детские",Ani
+http://ott.watch/stream/FW77EY74W5/306.m3u8
+#EXTINF:-1  group-title="Детские",Піксель HD
+http://ott.watch/stream/FW77EY74W5/323.m3u8
+#EXTINF:-1  group-title="Детские",Fresh Kids HD
+http://ott.watch/stream/FW77EY74W5/425.m3u8
+#EXTINF:-1  group-title="Детские",Cartoons Short HD
+http://ott.watch/stream/FW77EY74W5/347.m3u8
+#EXTINF:-1  group-title="Детские",Cartoons Big HD
+http://ott.watch/stream/FW77EY74W5/348.m3u8
+#EXTINF:-1  group-title="Детские",Cineman Симпсоны HD
+http://ott.watch/stream/FW77EY74W5/476.m3u8
+#EXTINF:-1  group-title="Детские",Cartoons 90 HD
+http://ott.watch/stream/FW77EY74W5/484.m3u8
+#EXTINF:-1  group-title="Музыкальные",Stingray iConcerts HD
+http://ott.watch/stream/FW77EY74W5/267.m3u8
+#EXTINF:-1  group-title="Музыкальные",Stingray CMusic HD
+http://ott.watch/stream/FW77EY74W5/312.m3u8
+#EXTINF:-1  group-title="Музыкальные",М1 HD
+http://ott.watch/stream/FW77EY74W5/218.m3u8
+#EXTINF:-1  group-title="Музыкальные",М2 HD
+http://ott.watch/stream/FW77EY74W5/330.m3u8
+#EXTINF:-1  group-title="Музыкальные",BRIDGE DELUXE HD
+http://ott.watch/stream/FW77EY74W5/92.m3u8
+#EXTINF:-1  group-title="Музыкальные",BRIDGE CLASSIC
+http://ott.watch/stream/FW77EY74W5/272.m3u8
+#EXTINF:-1  group-title="Музыкальные",BRIDGE
+http://ott.watch/stream/FW77EY74W5/318.m3u8
+#EXTINF:-1  group-title="Музыкальные",BRIDGE ХИТ
+http://ott.watch/stream/FW77EY74W5/320.m3u8
