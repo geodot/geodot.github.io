@@ -13,8 +13,6 @@ http://188.113.190.15/60/tracks-v1a1/index.m3u8
 http://46.8.29.51:2020/channel/n723486ec/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1  group-title="Развлекательные",.sci-fi
 http://91.205.199.3/scifi/index.m3u8
-#EXTINF:-1  group-title="Развлекательные",Sci-Fi
-http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/110/index.m3u8
 #EXTINF:-1  group-title="Развлекательные",СТС
 http://rnmlpksw.russtv.net/iptv/NERH9UMA84Z6UU/506/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Animal Planet
@@ -27,6 +25,10 @@ http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 http://188.113.190.15/146/mono.m3u8
 #EXTINF:-1  group-title="Познавательные",DTX Poland HD
 http://178.219.128.68:64888/DTXHD
+#EXTINF:-1  group-title="Познавательные",Наука 2.0
+http://188.113.190.15/96/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="Познавательные",Наука 2.0 HD
+http://ott.watch/stream/FW77EY74W5/125.m3u8
 #EXTINF:-1  group-title="Познавательные",Fashion TV HD
 http://188.113.190.15/194/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="Познавательные",FashionBox
@@ -143,10 +145,6 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1  group-title="Познавательные",Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1  group-title="Познавательные",Наука 2.0
-http://188.113.190.15/96/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="Познавательные",Наука 2.0 HD
-http://ott.watch/stream/FW77EY74W5/125.m3u8
 #EXTINF:-1  group-title="Познавательные",Наша сибирь
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1  group-title="Познавательные",Наша Сибирь 4k (Архив)
