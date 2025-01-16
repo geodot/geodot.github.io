@@ -16,7 +16,7 @@ http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Развлекательные",.sci-fi
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1  group-title="Познавательные",Кухня HD
-http://88.218.242.237:8000/play/a00s
+http://213.226.137.140:81/tl/l65/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Big Planet
 http://185.50.148.2:7703/BigPlanet/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Big Planet HD
@@ -105,108 +105,6 @@ https://flussonic.salomtv.uz/Viasat_History/video.m3u8
 http://82.215.111.227/1045/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Viju Explore HD
 https://flussonic.salomtv.uz/Viasat_Explorer/video.m3u8
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
-#EXTINF:-1  group-title="Познавательные",
-
 #EXTINF:-1  group-title="Детские",Мультиландия
 http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1  group-title="Детские",Мульт HD
@@ -357,6 +255,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 ,Viva TV Russia
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 ,Food Network
+rtmp://212.0.213.132//Joy_Cook
+#EXTINF:-1 ,Food Network HD
+rtmp://92.119.88.58//2419
 #EXTINF:-1 ,Zerouno TV Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 ,Пятница! (+7)
