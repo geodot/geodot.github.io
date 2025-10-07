@@ -1195,15 +1195,17 @@ https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://178.217.72.66:8080/HOME_4K/index.m3u8
 #EXTINF:-1  group-title="Релакс",Underwater 4K
 https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US700012OU
-#EXTINF:-1 ,Пятница! (+7)
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF:-1 ,Пятница! (+6)
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF:-1 ,Пятница! (+4)
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 ,Пятница! (+2)
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
 #EXTINF:-1  group-title="Развлекательные",Пятница! (+3)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 ,Пятница! (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1  group-title="Развлекательные",Пятница! (+1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-3600
